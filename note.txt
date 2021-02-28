@@ -1,0 +1,7 @@
+#Untuk menjalankan json server:
+json-server --watch namafile.json 
+ATAU
+json-server --watch course.json --port 3007
+
+#dokumentasi lengkap:
+https://github.com/typicode/json-server
