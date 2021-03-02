@@ -2,74 +2,67 @@
   "courseinfo": [
     {
       "id": 1,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Some Course",
       "price": "Rp. 300.000",
-      "level":"Basic"
-    },
-    {
-      "id": 2,
-      "cover":"https://dummyimage.com/300x200/000/fff",
-      "title": "React JS",
-      "price": "Rp. 260.000",
-      "level":"Medium"
+      "level": "Basic"
     },
     {
       "id": 3,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "React Native",
       "price": "Rp. 310.000",
-      "level":"Basic"
+      "level": "Basic"
     },
     {
       "id": 4,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Node JS",
       "price": "Rp. 205.000",
-      "level":"Medium"
+      "level": "Medium"
     },
     {
       "id": 5,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Node Express",
       "price": "Rp. 230.000",
-      "level":"Basic"
+      "level": "Basic"
     },
     {
       "id": 6,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Some Course 22",
       "price": "Rp. 300.000",
-      "level":"Basic"
+      "level": "Basic"
     },
     {
       "id": 7,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "React JS 11",
       "price": "Rp. 260.000",
-      "level":"Medium"
+      "level": "Medium"
     },
     {
       "id": 8,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "React Native 22",
       "price": "Rp. 310.000",
-      "level":"Basic"
+      "level": "Basic"
     },
     {
       "id": 9,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Node JS 22",
       "price": "Rp. 205.000",
-      "level":"Medium"
+      "level": "Medium"
     },
     {
       "id": 10,
-      "cover":"https://dummyimage.com/300x200/000/fff",
+      "cover": "https://dummyimage.com/300x200/000/fff",
       "title": "Node Express 22",
       "price": "Rp. 230.000",
-      "level":"Basic"
-    }    
+      "level": "Basic"
+    }
   ],
   "comments": [
     {
@@ -77,7 +70,7 @@
       "body": "some comment",
       "postId": 1,
       "price": "Rp. 300.000",
-      "level":"Basic"
+      "level": "Basic"
     }
   ]
 }
